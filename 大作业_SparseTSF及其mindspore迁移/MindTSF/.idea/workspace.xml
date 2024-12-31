@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a731d97c-d06e-429f-babf-4315370b46c3" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/MindTSF/dataset/electricity.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/dataset/exchange_rate.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/dataset/national_illness.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/dataset/traffic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/dataset/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/dataset/wind_power.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/electricity.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/etth1.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/etth2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/ettm1.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/ettm2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/traffic.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/mlp/weather.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/checkpoints/ETTh1_720_96_SparseTSF_ETTh1_ftM_sl720_pl96_linear_test_0_seed2023/checkpoint.ckpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/rank_0/om/analyze_fail.ir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/results/ETTh1_720_96_SparseTSF_ETTh1_ftM_sl720_pl96_linear_test_0_seed2023/real_prediction.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/run_all.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/run_all.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/electricity.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/electricity.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/etth1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/etth1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/etth2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/etth2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/ettm1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/ettm1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/ettm2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/ettm2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/traffic.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/traffic.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/weather.sh" beforeDir="false" afterPath="$PROJECT_DIR$/MindTSF/scripts/SparseTSF/linear/weather.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindTSF/test_results/ETTh1_720_96_SparseTSF_ETTh1_ftM_sl720_pl96_linear_test_0_seed2023/0.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MindTSF" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pSHCEWTJx9QIIsjtPZAZvWwqDr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/申健强/SparseTSF"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a731d97c-d06e-429f-babf-4315370b46c3" name="更改" comment="" />
+      <created>1732752426978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732752426978</updated>
+    </task>
+    <servers />
+  </component>
+</project>
